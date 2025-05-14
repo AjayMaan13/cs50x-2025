@@ -66,25 +66,6 @@ CS50x helped me build a strong foundation in computer science through real-world
 
 ---
 
-## 📁 Folder Structure
-cs50x/
-├── pset0/
-├── pset1/
-├── pset2/
-├── pset3/
-├── pset4/
-├── pset5/
-├── pset6/
-├── pset7/
-├── pset8/
-├── pset9/
-├── labs/
-├── final_project/
-└── README.md
-
-
----
-
 ## 🚨 Disclaimer
 
 These are my personal solutions for learning purposes. Please do not copy-paste as your own if you're taking CS50x. Academic honesty is essential.
