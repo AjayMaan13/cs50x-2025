@@ -1,0 +1,2 @@
+I think we can segrigate the type of songs they listen to like if variance of their song is high or any other component of the song.
+Other than that I think the best way would be to differenciate songs into simple categories like classics, hip-hop etc.

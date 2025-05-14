@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: because in the sorted.txt file sort 1 takes the least time as all the data is already sorted so it does not have to change any values, just check for which is bigger
+
+sort2 uses: Merge sort
+
+How do you know?: because it is the method that takes the least time even if number of texts is increased.
+
+sort3 uses: selection sort
+
+How do you know?: This is the only option left for the selection sort, so its using selection sort method
